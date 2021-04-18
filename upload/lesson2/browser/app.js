@@ -2,8 +2,8 @@ $(document).ready(() => {
   /*
   * change these values
   */
-  const cloud_name = '';
-  const unsignedUploadPreset = '';
+  const cloud_name = 'dkjaz9pdx';
+  const unsignedUploadPreset = 'y7jhiyhk';
   /**  **/
 
   const fileuploadBar = $('#fileuploadBar');
